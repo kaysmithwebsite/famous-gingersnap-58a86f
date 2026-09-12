@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /saved/
+Disallow: /404.html
+
+Sitemap: https://kaylinsmith.com/sitemap.xml
